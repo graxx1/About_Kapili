@@ -11,6 +11,6 @@ class Home(View):
     def get(self, request):
         return render(request, 'Home.html')
 
-class AboutMe(View):
+class Me(View):
     def get(self, request):
         return render(request, 'AboutMe.html')
