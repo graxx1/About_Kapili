@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'kapili-simple-web'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A5BF90B1B44441F8ACDCC3A7AC09ADF1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A944062C589A4C22ADC61DBF8CFE77D4 }}
